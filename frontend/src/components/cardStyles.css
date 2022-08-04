@@ -1,0 +1,17 @@
+.card {
+    width: 90%;
+    margin: auto;
+    background-color: rgba(161, 208, 191, 0.69);
+    box-shadow: 2px 3px 3px #abbebe;
+}
+
+.card-img-top {
+    max-width: 100px;
+    max-height: 100px;
+    margin: auto;
+}
+
+.video {
+    margin: auto;
+    max-width: 100%;
+}
